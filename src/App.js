@@ -6,8 +6,8 @@ import React, { Component } from 'react';
 import Card from './Components/Card';
 
 export default class App extends Component {
-  pageSize = 12
-  apiKey = process.env.REACT_APP_API_KEY
+  pageSize = 12;
+  apiKey = "0e72c6937e2a4951a1031834f408d4f8";//process.env.REACT_APP_API_KEY
 
 
   state = {
