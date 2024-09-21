@@ -1,7 +1,7 @@
 {
   "name": "news_api",
   "version": "0.1.0",
-  "homepage": "https://vaishnavipawar1196.github.io/NewsApi",
+  "homepage": "https://vaishnavipawar1196.github.io/News_Api",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
