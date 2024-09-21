@@ -19,7 +19,7 @@ export default class App extends Component {
   render(){
   return (   
     <div className="App">    
-    <Router>
+    <Router  basename={process.env.PUBLIC_URL}>
       <LoadingBar
         color='#f11946'
         progress={this.state.progress}
